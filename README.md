@@ -269,5 +269,5 @@ FIN
 
 ## 5. Diagrama de flujo
 
-![Diagrama de flujo](Diagrama_sintítulo.drawio.png)
+![Diagrama de flujo](Diagrama_princi.png)
 
