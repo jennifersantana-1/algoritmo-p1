@@ -1,10 +1,13 @@
 ## 1. Descripción del sistema
-En este proyecto desarrollé un sistema para controlar el stock de productos de una tienda en línea. El objetivo principal es ayudar a revisar las existencias disponibles, organizar la información del inventario y detectar los productos que necesitan reposición.
+```En este proyecto desarrollé un sistema para controlar el stock de productos de una tienda en línea. El objetivo principal es ayudar a revisar las existencias disponibles, organizar la información del inventario y detectar los productos que necesitan reposición.
+
 Para realizar este proceso dividí el algoritmo en diferentes módulos, donde cada uno tiene una responsabilidad específica. Primero tengo un procedimiento encargado de leer los datos ingresados y validar que las cantidades de stock sean correctas, evitando valores negativos. Luego utilizo un procedimiento de ordenamiento mediante Bubble Sort para organizar las existencias de los productos.
+
 También desarrollé una función para calcular el total de unidades disponibles y una función de búsqueda que permite identificar productos agotados. Como mejora respecto al algoritmo realizado en la Semana 2, ahora el sistema puede manejar varios productos sin stock y guardar todas las posiciones donde se encuentran.
+
 Finalmente, el sistema muestra un reporte con la información procesada, incluyendo el stock ordenado, la cantidad total de unidades disponibles y los productos que necesitan reposición.
 Entrada: cantidad de productos y unidades disponibles de cada producto.
-Salida: arreglo ordenado, total de unidades disponibles y posiciones de productos sin stock.
+Salida: arreglo ordenado, total de unidades disponibles y posiciones de productos sin stock. ```
 
 ## 2.Pseudocódigo Modulo 1: leerStock
 
