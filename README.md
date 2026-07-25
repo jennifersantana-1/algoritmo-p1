@@ -266,5 +266,5 @@ FIN
 
 ## 5. Diagrama de flujo
 
-![Diagrama de flujo](Diagrama sin título.drawio.png)
+![Diagrama de flujo](Diagrama_sintítulo.drawio.png)
 
