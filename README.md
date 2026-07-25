@@ -7,8 +7,8 @@ Entrada: cantidad de productos y unidades disponibles de cada producto.
 Salida: arreglo ordenado, total de unidades disponibles y posiciones de productos sin stock.
 
 ## 2.Pseudocódigo Modulo 1: leerStock
-// Procedimiento: lee los datos de stock y valida que no existan valores negativos
 
+// Procedimiento: lee los datos de stock y valida que no existan valores negativos
 PROCEDIMIENTO leerStock(stock: ARREGLO, N: ENTERO)
 VARIABLES
     i : ENTERO
@@ -31,7 +31,6 @@ INICIO
         stock[i] ← existencia
 
     FIN_PARA
-
 FIN_PROCEDIMIENTO
 
 ## Modulo 2: bubbleSort
